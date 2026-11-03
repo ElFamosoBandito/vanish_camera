@@ -1,0 +1,9 @@
+{
+  "name": "CamGhost Studio — Caméra Virtuelle & Effets d'Évasion",
+  "description": "Studio d'effets spéciaux en temps réel pour réunions vidéo (Discord, Teams, Zoom, Meet). Disparaissez par gestes avec la téléportation Goku, la substitution Naruto ou le fondu Signe V.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

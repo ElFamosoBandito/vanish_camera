@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.aistudio/
+public/assets/aistudio/
+.DS_Store
+*.log
+.env*
+!.env.example
+
